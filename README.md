@@ -4,4 +4,4 @@ This repository serves to host public conversations about topics or questions th
 
 * How to Participate
 * [Code of Conduct](https://github.com/18F/code-of-conduct)
-* Model Thread
+* [Model Thread](https://github.com/18F/discussions/issues/1)
